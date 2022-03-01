@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Publick credit, under consideration, how to be retreiv'd</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04881</idno>
+            <idno type="STC">Wing P4149B</idno>
+            <idno type="STC">ESTC R182253</idno>
+            <idno type="EEBO-CITATION">52614859</idno>
+            <idno type="OCLC">ocm 52614859</idno>
+            <idno type="VID">176045</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176045)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2760:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Publick credit, under consideration, how to be retreiv'd</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb n="1" facs="tcp:176045:1" rendition="simple:additions"/>
+            <head>Publick CREDIT, Under Conſideration, how to be RETREIV'D.</head>
+            <p>
+               <hi>THE Loſs of a</hi> Publick Credit <hi>is certainly one of the greateſt</hi> Misfortunes <hi>that can befall a</hi> Trading Nati<g ref="char:EOLhyphen"/>on, <hi>which, to our great <g ref="char:V">Ʋ</g>nhappineſs, ſeems to bare too near a reſemblance of our very</hi> Caſe; <hi>and ſuch have been the Improvements made thereupon by the</hi> Enemies <hi>of the</hi> Government, <hi>and ſome</hi> Self-Intereſted <hi>Perſons, in Order to render themſelves</hi> Extraordinary Gain, <hi>that it muſt be own'd has chiefly Occaſioned the great Difficulties we have hitherto met withal, and what we now actually Labour under.</hi>
+            </p>
+            <p>
+               <hi>B<g ref="char:V">Ʋ</g>T conſidering, that Merchants, and Traders, in General, from abroad ſeem to be more and more Reconcil'd to our Publick Faith, from the</hi> Obſervations <hi>they have made of the</hi> Reſolutions <hi>and</hi> Procee<g ref="char:EOLhyphen"/>dings <hi>of our late</hi> Seſſion <hi>of</hi> Parliament; <hi>and are now become fully perſwa<g ref="char:EOLhyphen"/>ded, that they are earneſtly concern'd to Defend and Support the ſame.</hi>
+            </p>
+            <p>
+               <hi>IT's Highly our Intereſt <g ref="char:V">Ʋ</g>nanimouſly to Joyn with them, in our Inclina<g ref="char:EOLhyphen"/>tions and Endeavours towards the promoting ſuch a Diſpoſition amongſt our ſelves, and carrying on ſo good an Opinion of our</hi> Credit <hi>to Perfection: By which means we ſhall</hi> Break <hi>the</hi> Deſigns <hi>of our</hi> Enemies, <hi>and per<g ref="char:EOLhyphen"/>fectly</hi> Extirpate <hi>thoſe</hi> Exorbitant <hi>Practices, which have hitherto tended only to the Fomenting, and Keeping up</hi> Strange Jealouſies <hi>of our Credit, to the great Interruption in Trade.</hi>
+            </p>
+            <p>
+               <hi>WHich if not</hi> Effectually Remedied, <hi>(and at this preſent Juncture) the</hi> Conſequence <hi>muſt prove</hi> Fatal <hi>and</hi> Deſtructive <hi>to this</hi> Nati<g ref="char:EOLhyphen"/>on, <hi>as being a People that</hi> Depend <hi>ſo much upon</hi> Credit; <hi>and there needs no other Argument to prove, how Deſperate and Miſerable our</hi> Circum<g ref="char:EOLhyphen"/>ſtances <hi>are like to be, for time to come, than to reflect, and look back, and judge by Experience how unhappy we have been for ſome time paſt, for want of a due care in preſerving the</hi> Credit <hi>of the</hi> Nation; <hi>which ought alwayes to be deemed as Sacred.</hi>
+            </p>
+            <p>
+               <hi>NOW that we may be</hi> Reſtored <hi>to our</hi> former Character, <hi>in Relation to a</hi> General Credit, <hi>which moſt certainly would render us the Happieſt of People.</hi>
+            </p>
+            <p>
+               <hi>IT is conſidered, and humbly conceived, That a</hi> National Credit, <hi>when once loſt, is never to be</hi> Retreived, <hi>but by one of theſe two wayes,</hi> viz.</p>
+            <pb n="2" facs="tcp:176045:2"/>
+            <p>THE <hi>Firſt,</hi> By procuring ſuch a quantity of <hi>Specie,</hi> as ſhould be ſufficient to Diſcharge the <hi>Debts</hi> of a <hi>Nation;</hi> (which for us to do at preſent) is Morally impoſible.</p>
+            <p>THE <hi>Second,</hi> by laying before the people ſuch <hi>Natural Induce<g ref="char:EOLhyphen"/>ments,</hi> as ſhall <hi>Engage</hi> them, both by <hi>Reaſon</hi> and <hi>Intereſt,</hi> (as one Man) to the ſupporting <hi>Publick Credit;</hi> which is the Honour and Glory of a <hi>Kingdom.</hi>
+            </p>
+            <p>BY this only can our <hi>Credit</hi> be Recovered, being of ſo Tender a Nature, that nothing but what's Indulging, perſwaſive, and Convincing, can ever take place to have a good effect.</p>
+            <p>IN Order to Reduce ſo good a Deſign into Practice, It's Propoſed from the <hi>Conſiderations</hi> afore-mentioned, that this <hi>City of London,</hi> the great <hi>Metropolis,</hi> the very Center of Trade, and ſo conſequent<g ref="char:EOLhyphen"/>ly the Spring and Fountain of <hi>Credit,</hi> do forthwith Enter into an <hi>Aſſociation</hi> or <hi>General Agreement,</hi> to Support and Defend the <hi>Credit</hi> of the Nation againſt all it's Oppoſers.</p>
+            <p>THE Nature of this <hi>Aſſociation</hi> makes it abſolutely neceſſary, Firſt to declare an Abhorrence, &amp; Deteſtation againſt the evil Practiſes that have been made upon our <hi>Credit;</hi> Then to demonſtrate what a good Opinion the People have of the Publick Faith, by a <hi>Voluntary</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nanimous Subſcription</hi> to the following Prelimi<g ref="char:EOLhyphen"/>naries, <hi>viz.</hi>
+            </p>
+            <p>THAT in all Payments in matter of <hi>Trade</hi> and <hi>Commerce</hi> (Bills of <hi>Exchange</hi> excepted) they will readily Receive for Payment, the one Moity in <hi>Specie,</hi> the other in <hi>Bank Bills</hi> and <hi>Notes</hi> at <hi>Parr,</hi> provided the <hi>Debt</hi> be over and above the Summ of <hi>Twenty</hi> Pounds.</p>
+            <p>BUT all <hi>Debts</hi> of that Summ, and under, to be paid (if deſired) in <hi>Specie,</hi> to preſerve a <hi>Circulation,</hi> to anſwer all <hi>Inferior Trades;</hi> and to Accomodate <hi>Families</hi> in Reſpect of <hi>Proviſions, &amp;c.</hi>
+            </p>
+            <p>BY theſe Means, the <hi>Credit</hi> and <hi>Specie</hi> of the <hi>Nation</hi> will go hand in hand towards the Supporting and enlarging each other; the <hi>Diſcount</hi> of <hi>Notes</hi> (in all probability) ſoon put to an end, and pub<g ref="char:EOLhyphen"/>lick <hi>Credit</hi> Naturally follow.</p>
+            <p>
+               <hi>BANK Notes</hi> falling under a Diſcount, was the Real Occa<g ref="char:EOLhyphen"/>ſion of bringing a Diſparagement upon all <hi>Publick Credit:</hi> But when once the <hi>Cauſe</hi> is removed, the effect will ceaſe.</p>
+            <div type="propositions">
+               <head>THis <hi>Aſſociation,</hi> or General Agreement, can hardly fail of it's Intention, upon making good theſe three Propoſitions.</head>
+               <p>
+                  <hi>FIrſt,</hi> In making it appear to be greatly the Advantage of ſuch as are concerned in the Government.</p>
+               <p>
+                  <hi>SEcond,</hi> By manifeſting from <hi>Natural Conſequences,</hi> that it will be likewiſe the Intreſt of thoſe Perſons that are not ingaged in the <hi>Publick.</hi>
+               </p>
+               <pb n="3" facs="tcp:176045:2"/>
+               <p>
+                  <hi>THird,</hi> In laying down a Plain and Eaſie Method in bringing ſuch an <hi>Aſſociation,</hi> or Agreement, to become feazable.</p>
+               <div n="1" type="proposition">
+                  <head>As to the Firſt Propoſition.</head>
+                  <p>
+                     <hi>Firſt.</hi> IT's preſumed, that <hi>Four</hi> parts in <hi>Five</hi> of <hi>Bank Bills</hi> and <hi>Notes,</hi> are in and about this City; therefore more natu<g ref="char:EOLhyphen"/>ral for them to <hi>Aſſociate,</hi> to give a <hi>Credit,</hi> by reaſon of the influence the <hi>City</hi> bears over the Kingdom, as well as abroad.</p>
+                  <p>
+                     <hi>Second.</hi> ALL ſuch perſons that are poſſeſt of <hi>Bank Bills</hi> and <hi>Notes,</hi> moſt readily will comply herein, by reaſon of the <hi>Diſ<g ref="char:EOLhyphen"/>count</hi> that's now upon thoſe Notes, which will Immediately [after the <hi>Aſſociation</hi>] be at a <hi>Parr.</hi>
+                  </p>
+                  <p>
+                     <hi>Third.</hi> THoſe that are Concerned in the <hi>Capital ſtock</hi> of the <hi>Bank of England,</hi> or any other Publick Funds (viz.) <hi>Tallys, Lotteries, Annuities,</hi> &amp;c. moſt Infallibly will joyn in this undertaking, it Appearing ſo plain to be an <hi>Immediate advance</hi> on their reſpective <hi>Intereſt,</hi> proportionable to the <hi>Riſe</hi> of <hi>Bank Notes.</hi>
+                  </p>
+                  <p>
+                     <hi>Fourth.</hi> THE <hi>Exchequer Bills</hi> that are Iſſued out, purſuant to a late Act of Parliament, might reaſonably have ex<g ref="char:EOLhyphen"/>pected to have had a Currency till Oppertunity offer'd, to ſink them in the Kings Publick Receipts; as Cuſtomes and Exciſe; but 'tis too plain, that the Practice of Diſcount is likewiſe upon them, <hi>&amp;c.</hi> But when once (by this <hi>Aſſociation) Bank Bills</hi> and <hi>Notes</hi> ſhall arrive to ſuch a <hi>Credit, Exchequer Bills</hi> will be ſo much in eſteem, and become ſo much more Valuable than Money, for the ſake of the <hi>High Intereſt</hi> they Carry: That the <hi>KING,</hi> inſtead of Receiving his Revenue in ſuch Bills, will find the greater part in Specie, and every Man reſerve the ſaid Bills for his laſt Payment.<note n="*" place="margin">Exchequer Bills may be included in this Aſſociati<g ref="char:EOLhyphen"/>on, if thought neceſſary.</note>
+                  </p>
+               </div>
+               <div n="2" type="proposition">
+                  <head>As to the Second.</head>
+                  <p>
+                     <hi>Firſt.</hi> THoſe that have no manner of intereſt in <hi>Publick Funds,</hi> yet as <hi>Traders,</hi> cannot avoid receiving of <hi>Bank Notes</hi> in Payment; and the Difficulties that they have met with in re<g ref="char:EOLhyphen"/>ſpect thereof, has ſo much harraſed and fatiegued them, by ob<g ref="char:EOLhyphen"/>ſtructing all their affairs, that even ſuch would be glad to take up any Expedient, that might Tend to a <hi>Settlement</hi> of their <hi>Payments,</hi> and Incourage <hi>Trade.</hi>
+                  </p>
+                  <p>
+                     <hi>Second.</hi> THE number of ſuch Perſons that are actually Engag<g ref="char:EOLhyphen"/>ed, and have Conſiderable Intereſts in the <hi>Publick Credit,</hi> cannot be thought leſs than <hi>Three</hi> parts in <hi>Four</hi> of the <hi>Valuable Men</hi> in the <hi>City;</hi> poſſibly <hi>Not</hi> a Man of good repute, and Conſidera<g ref="char:EOLhyphen"/>ble dealing, can be Exempted: This muſt go a great way, even in their very Numbers; beſides the influence they have to carry through ſuch an <hi>Aſſociation.</hi>
+                  </p>
+                  <p>
+                     <hi>Third.</hi> NO Man (it may be averd) refuſes <hi>Bank Notes,</hi> at this time, in Payment, from a real ill Opinion of their <hi>Credit,</hi> but on the Contrary; for it plainly appears, when ſuch men preſs for Specie, and ſeem to undervalue the <hi>Credit</hi> of the <hi>Bank,</hi> that imme<g ref="char:EOLhyphen"/>diatly
+<pb n="4" facs="tcp:176045:3"/>after they convert the very ſame <hi>Specie</hi> into the very ſame <hi>Cre<g ref="char:EOLhyphen"/>dit,</hi> and nothing but the advantage of the <hi>Diſcount</hi> is the thing aim'd at.</p>
+                  <p>
+                     <hi>Fourth.</hi> IF any Perſon not well diſpoſed to the <hi>Government,</hi> or ſome others, that may be unwilling ſuch an <hi>Aſſociation</hi> or Agreement ſhould take Effect, for fear of <hi>Deſtroying</hi> thoſe <hi>Pernicious Practices</hi> of Exceſſive <hi>
+                        <g ref="char:V">Ʋ</g>ſury,</hi> which they make, by joyning with ſuch as are Induſtrious to debaſe, and run down the <hi>Credit</hi> of the <hi>Nation;</hi> yet when they ſhall find this <hi>Aſſociation,</hi> or Agreement become General, both ſorts will be very ſhye how they Expoſe themſelves in not complying, for fear of being accounted Enemies to the Publick good.</p>
+                  <p>
+                     <hi>Fifth.</hi> BUT if ſome few ſhould prove refractory, and ſtand out, they'l ſoon find it their Intereſt to come in; for moſt certainly thoſe that do <hi>Aſſociate,</hi> will Trade with no other, but what ſhall <hi>Aſſociate</hi> with them; which in a ſhort time muſt prove highly prejudicial, the Numbers of the one being ſo vaſtly diſpro<g ref="char:EOLhyphen"/>portionable to the other.<note n="*" place="margin">A Liſt of the Names of the Perſons that Subſcribe, with the places of their abodes &amp; their ſeveral and reſpective Trades Alpha<g ref="char:EOLhyphen"/>betically may be Printed, if thought con<g ref="char:EOLhyphen"/>venient.</note>
+                  </p>
+               </div>
+               <div n="3" type="proposition">
+                  <p>
+                     <hi>The Third Propoſition, to make this Aſſociation Eaſie and Natural.</hi>
+                  </p>
+                  <p>THE Method of ſetting forward ſuch an <hi>Aſſociation</hi> (with Sub<g ref="char:EOLhyphen"/>miſſion) is by a <hi>Generous <g ref="char:V">Ʋ</g>ndertaking</hi> of each Member of the <hi>Common Council,</hi> and others that are intirely in the Intreſt of the Na<g ref="char:EOLhyphen"/>tion, heartily to Eſpouſe this Deſign, ſo much intended for a <hi>Publick Good;</hi> which receiving encouragement from them, will <hi>Naturally</hi> have its influence to a great Degree.</p>
+                  <p>WHen once the People become truly Senſible of the Advantage that will ariſe hereby, and how far it muſt tend to the Ho<g ref="char:EOLhyphen"/>nour and Greatneſs of this <hi>City,</hi> to Promote a free Circulation in our Trade; It's not to be queſtion'd, but of themſelves they will deſire a <hi>Common Council</hi> to be called, &amp; there to agree, to have Sub<g ref="char:EOLhyphen"/>ſcriptions taken in the ſeveral Wards, Purſuant to the <hi>Aſſociation</hi> that ſhall be Drawn for that Purpoſe.<note n="†" place="margin">It is referred to the <hi>Common Council,</hi> to pre<g ref="char:EOLhyphen"/>pare an inſtru<g ref="char:EOLhyphen"/>ment to be ſubſcribed to, purſuant to this <hi>Aſſociation.</hi>
+                        <p>A certain time to be li<g ref="char:EOLhyphen"/>mited for ta<g ref="char:EOLhyphen"/>king the ſaid Subſcription; and every ſub<g ref="char:EOLhyphen"/>ſcriber to have liberty <hi>to with<g ref="char:EOLhyphen"/>draw</hi> the ſame, unleſs it be<g ref="char:EOLhyphen"/>comes general.</p>
+                     </note>
+                  </p>
+                  <p>THeſe Graduall Methods being firſt taken, and laying a good Foundation for the <hi>Superſtructure;</hi> It's not to be doubted, but upon Application, the <hi>Lord Mayor,</hi> and <hi>Court of Aldermen,</hi> will readily give their <hi>Sanction,</hi> and <hi>Aſſiſtance,</hi> toward Compleating ſo Great a Work; which muſt Center in a Happy Correſpondence amongſt our Selves, and give a Univerſal Satisfaction to all our Neighbouring Parts.</p>
+                  <p>THE Exemplary Zeal taken from this City, throughout the Kingdom, by their late <hi>Aſſocia<g ref="char:EOLhyphen"/>tion,</hi> gives a ſufficient proſpect of the <hi>Good Effect</hi> that may reaſonably be expected from this intended <hi>Aſſociation.</hi> And it cannot be immagined when the <hi>Credit</hi> of the Nation (which is the life of the King as well as the Nation) ſhall lye at ſtake, that we ſhould be ſo ſtupid, or unnatural, as not to <hi>Aſſociate</hi> to Support and Defend the ſame.</p>
+                  <p>In a Word, let our Laws be made never ſo paenal; let our Funds be made never ſo ſecure; nay, let all the Lands of <hi>England</hi> be tied for the making them good: Yet under the Circumſtances we ſtand, if a Credit ſhould be iſſued thereupon, it would fall under a diſcount; unleſs the Nation ſhows their Reſolution not to be impoſed upon.</p>
+               </div>
+            </div>
+            <epigraph>
+               <q>Many things may ſeem Difficult, but Mountains have been removed.</q>
+               <q>Cum multis manibus grande levatur onus.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
